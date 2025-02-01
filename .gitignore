@@ -1,0 +1,22 @@
+# Dependencias de Node.js
+node_modules/
+package-lock.json
+
+# Variables de entorno (credenciales, claves API, etc.)
+.env
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Salidas de build (si usas TypeScript o Babel)
+dist/
+build/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de procesos de ejecución
+.pnpm-debug.log
